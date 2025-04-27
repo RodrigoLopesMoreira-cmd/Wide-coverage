@@ -6,3 +6,4 @@
   <li><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="htlm-logo" width="33px"/> </li>
 </ul>
 <h2>projeto desenvolvido apenas para desktop computer</h2>
+<img src="https://github.com/RodrigoLopesMoreira-cmd/Wide-coverage/blob/main/img/print-wide-coverage-location.PNG?raw=true"/>
